@@ -18,7 +18,7 @@
 		</dict>
 	</dict>
 	<key>API_KEY</key>
-	<string>c70f0801f03965d85183015aae05abea</string>
+	<string>“YOU_KEY”</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>我们需要获取您的位置以提供当地天气信息</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
