@@ -8,3 +8,6 @@
 API由高德提供：https://lbs.amap.com
 有些功能尚未完善，24小时天气没找到合适的免费的API为制作完成，只提供演示，底部左侧按钮等Map也为完善
 API密钥请去https://lbs.amap.com获取
+
+使用请创建Config文件 内容为 APY_KEY = YOU_API_KEY 
+和在info文件的APY_KEY也需要填写，否则无法获取定位
